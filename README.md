@@ -14,6 +14,7 @@
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vandan1207/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Vandan1207/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2756-buy-two-chocolates](https://github.com/Vandan1207/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,12 @@
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/Vandan1207/Leetcode/tree/master/2727-number-of-senior-citizens) |
+## Greedy
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/Vandan1207/Leetcode/tree/master/2756-buy-two-chocolates) |
+## Sorting
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/Vandan1207/Leetcode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
