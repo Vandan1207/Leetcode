@@ -9,7 +9,7 @@ class Solution {
             if(area>maxArea){
                 maxArea=area;
             }
-            if(height[si]<=height[ei]){
+            if(height[si]<height[ei]){
                 si++;
             }else{
                 ei--;
