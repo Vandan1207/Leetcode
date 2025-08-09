@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Vandan1207/Leetcode/tree/master/0050-powx-n) |
 | [0319-bulb-switcher](https://github.com/Vandan1207/Leetcode/tree/master/0319-bulb-switcher) |
 ## Brainteaser
 |  |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vandan1207/Leetcode/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vandan1207/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
