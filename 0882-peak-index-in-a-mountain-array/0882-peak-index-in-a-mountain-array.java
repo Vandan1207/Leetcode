@@ -8,15 +8,13 @@ class Solution {
                 si=mid+1;
             }
             else{
-                if(arr[mid]>arr[mid-1]){
-                    return mid;
-                }else{
                 ei=mid;
                 }
+                mid=si+(ei-si)/2;
             }
-            mid=si+(ei-si)/2;
-        }
+            
+        
 
-        return -1;
+        return mid;
     }
 }
