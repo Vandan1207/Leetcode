@@ -17,6 +17,7 @@
 | [0035-search-insert-position](https://github.com/Vandan1207/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Vandan1207/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Vandan1207/Leetcode/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/Vandan1207/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/Vandan1207/Leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vandan1207/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vandan1207/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vandan1207/Leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Vandan1207/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vandan1207/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Linked List
 |  |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Vandan1207/Leetcode/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vandan1207/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
