@@ -98,8 +98,13 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vandan1207/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Vandan1207/Leetcode/tree/master/0191-number-of-1-bits) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vandan1207/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Vandan1207/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
