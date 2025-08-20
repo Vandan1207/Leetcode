@@ -6,6 +6,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Vandan1207/Leetcode/tree/master/0050-powx-n) |
 | [0319-bulb-switcher](https://github.com/Vandan1207/Leetcode/tree/master/0319-bulb-switcher) |
+| [0412-fizz-buzz](https://github.com/Vandan1207/Leetcode/tree/master/0412-fizz-buzz) |
 ## Brainteaser
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vandan1207/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Vandan1207/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Vandan1207/Leetcode/tree/master/0412-fizz-buzz) |
 | [2727-number-of-senior-citizens](https://github.com/Vandan1207/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Greedy
 |  |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Vandan1207/Leetcode/tree/master/0191-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Vandan1207/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
