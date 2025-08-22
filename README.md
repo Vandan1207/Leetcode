@@ -40,6 +40,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vandan1207/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Vandan1207/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Vandan1207/Leetcode/tree/master/0412-fizz-buzz) |
+| [0742-to-lower-case](https://github.com/Vandan1207/Leetcode/tree/master/0742-to-lower-case) |
 | [2727-number-of-senior-citizens](https://github.com/Vandan1207/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Greedy
 |  |
