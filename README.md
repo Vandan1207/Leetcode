@@ -24,6 +24,7 @@
 | [0136-single-number](https://github.com/Vandan1207/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Vandan1207/Leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vandan1207/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Vandan1207/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vandan1207/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2727-number-of-senior-citizens](https://github.com/Vandan1207/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/Vandan1207/Leetcode/tree/master/2756-buy-two-chocolates) |
