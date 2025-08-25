@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vandan1207/Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Vandan1207/Leetcode/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/Vandan1207/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Vandan1207/Leetcode/tree/master/0412-fizz-buzz) |
 ## Brainteaser
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vandan1207/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Vandan1207/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Vandan1207/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vandan1207/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Linked List
