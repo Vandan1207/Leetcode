@@ -53,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Vandan1207/Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Vandan1207/Leetcode/tree/master/0217-contains-duplicate) |
 | [2756-buy-two-chocolates](https://github.com/Vandan1207/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
@@ -65,6 +66,7 @@
 | [0042-trapping-rain-water](https://github.com/Vandan1207/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Vandan1207/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vandan1207/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Vandan1207/Leetcode/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/Vandan1207/Leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -103,6 +105,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Vandan1207/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Vandan1207/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vandan1207/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Vandan1207/Leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vandan1207/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -127,9 +130,14 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Vandan1207/Leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Vandan1207/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Vandan1207/Leetcode/tree/master/0412-fizz-buzz) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Vandan1207/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
