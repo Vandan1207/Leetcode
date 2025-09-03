@@ -30,6 +30,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vandan1207/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vandan1207/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vandan1207/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2727-number-of-senior-citizens](https://github.com/Vandan1207/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/Vandan1207/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
@@ -83,10 +84,12 @@
 | [0042-trapping-rain-water](https://github.com/Vandan1207/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Vandan1207/Leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vandan1207/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vandan1207/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +119,7 @@
 | [0328-odd-even-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vandan1207/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vandan1207/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Backtracking
 |  |
