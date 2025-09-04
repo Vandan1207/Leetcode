@@ -116,6 +116,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Vandan1207/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Vandan1207/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Vandan1207/Leetcode/tree/master/0148-sort-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vandan1207/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/0908-middle-of-the-linked-list) |
