@@ -17,19 +17,14 @@ class Solution {
             t2= t2.next;
             i++;
         }
+        ListNode front = t2;
         while(t2.next!=null){
             t2=t2.next;
             t1= t1.next;
         }
-        int j = 1;
-        t2= head;
-        while(j<k){
-            t2 = t2.next;
-            j++;
-        }
-        int temp = t1.val;
-        t1.val = t2.val;
-        t2.val =  temp;
+        int temp = front.val;
+        front.val = t1.val;
+        t1.val =  temp;
 
         return head;
     }
