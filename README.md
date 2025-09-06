@@ -123,6 +123,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vandan1207/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/Vandan1207/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Vandan1207/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Backtracking
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Vandan1207/Leetcode/tree/master/0412-fizz-buzz) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Vandan1207/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Merge Sort
 |  |
 | ------- |
