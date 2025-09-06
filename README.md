@@ -74,6 +74,7 @@
 | [0148-sort-list](https://github.com/Vandan1207/Leetcode/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/Vandan1207/Leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0143-reorder-list](https://github.com/Vandan1207/Leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vandan1207/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vandan1207/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/Vandan1207/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vandan1207/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Backtracking
 |  |
