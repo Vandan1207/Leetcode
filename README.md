@@ -10,6 +10,7 @@
 | [0319-bulb-switcher](https://github.com/Vandan1207/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Vandan1207/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Vandan1207/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1013-fibonacci-number](https://github.com/Vandan1207/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vandan1207/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Brainteaser
 |  |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vandan1207/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1013-fibonacci-number](https://github.com/Vandan1207/Leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Vandan1207/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Vandan1207/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Vandan1207/Leetcode/tree/master/0143-reorder-list) |
+| [1013-fibonacci-number](https://github.com/Vandan1207/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,4 +178,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vandan1207/Leetcode/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vandan1207/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
