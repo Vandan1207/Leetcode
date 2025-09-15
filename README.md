@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Vandan1207/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vandan1207/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Vandan1207/Leetcode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Vandan1207/Leetcode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/Vandan1207/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Vandan1207/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Vandan1207/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -173,6 +174,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vandan1207/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vandan1207/Leetcode/tree/master/0412-fizz-buzz) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vandan1207/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Vandan1207/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -184,4 +186,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Vandan1207/Leetcode/tree/master/1013-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vandan1207/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
