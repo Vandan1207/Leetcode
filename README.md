@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/Vandan1207/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Vandan1207/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Vandan1207/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Vandan1207/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Vandan1207/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Vandan1207/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Vandan1207/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -29,6 +30,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Vandan1207/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Vandan1207/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Vandan1207/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Vandan1207/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vandan1207/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vandan1207/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vandan1207/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -44,6 +46,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Vandan1207/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vandan1207/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Vandan1207/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Vandan1207/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vandan1207/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
@@ -63,6 +66,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Vandan1207/Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Vandan1207/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Vandan1207/Leetcode/tree/master/0268-missing-number) |
 | [2756-buy-two-chocolates](https://github.com/Vandan1207/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
@@ -118,6 +122,7 @@
 | [0035-search-insert-position](https://github.com/Vandan1207/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vandan1207/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Vandan1207/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Vandan1207/Leetcode/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vandan1207/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Linked List
 |  |
@@ -163,6 +168,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Vandan1207/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Vandan1207/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Vandan1207/Leetcode/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
