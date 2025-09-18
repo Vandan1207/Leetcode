@@ -31,6 +31,7 @@
 | [0136-single-number](https://github.com/Vandan1207/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Vandan1207/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vandan1207/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Vandan1207/Leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vandan1207/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vandan1207/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vandan1207/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -83,6 +84,7 @@
 | [0143-reorder-list](https://github.com/Vandan1207/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Vandan1207/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vandan1207/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/Vandan1207/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vandan1207/Leetcode/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/0908-middle-of-the-linked-list) |
