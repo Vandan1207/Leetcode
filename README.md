@@ -49,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/Vandan1207/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vandan1207/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Vandan1207/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Vandan1207/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vandan1207/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
@@ -57,6 +58,7 @@
 | [0058-length-of-last-word](https://github.com/Vandan1207/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Vandan1207/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Vandan1207/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Vandan1207/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Vandan1207/Leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Vandan1207/Leetcode/tree/master/0742-to-lower-case) |
 | [2727-number-of-senior-citizens](https://github.com/Vandan1207/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -70,6 +72,7 @@
 | [0148-sort-list](https://github.com/Vandan1207/Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Vandan1207/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vandan1207/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Vandan1207/Leetcode/tree/master/0389-find-the-difference) |
 | [2756-buy-two-chocolates](https://github.com/Vandan1207/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
@@ -173,6 +176,7 @@
 | [0136-single-number](https://github.com/Vandan1207/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Vandan1207/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Vandan1207/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Vandan1207/Leetcode/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
