@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vandan1207/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vandan1207/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Vandan1207/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vandan1207/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Vandan1207/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vandan1207/Leetcode/tree/master/0268-missing-number) |
@@ -26,6 +27,7 @@
 | [0035-search-insert-position](https://github.com/Vandan1207/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Vandan1207/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Vandan1207/Leetcode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Vandan1207/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vandan1207/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vandan1207/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Vandan1207/Leetcode/tree/master/0136-single-number) |
