@@ -16,6 +16,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Vandan1207/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/Vandan1207/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vandan1207/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Vandan1207/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0485-max-consecutive-ones](https://github.com/Vandan1207/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vandan1207/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Vandan1207/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vandan1207/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2727-number-of-senior-citizens](https://github.com/Vandan1207/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/Vandan1207/Leetcode/tree/master/2756-buy-two-chocolates) |
@@ -206,6 +208,7 @@
 | [0258-add-digits](https://github.com/Vandan1207/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vandan1207/Leetcode/tree/master/0412-fizz-buzz) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vandan1207/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Vandan1207/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vandan1207/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Merge Sort
 |  |
@@ -233,4 +236,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vandan1207/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Vandan1207/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
