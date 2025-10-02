@@ -18,6 +18,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vandan1207/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/Vandan1207/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vandan1207/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/Vandan1207/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vandan1207/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vandan1207/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vandan1207/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [3336-water-bottles-ii](https://github.com/Vandan1207/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Merge Sort
 |  |
 | ------- |
