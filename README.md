@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vandan1207/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Vandan1207/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Vandan1207/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Vandan1207/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Vandan1207/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vandan1207/Leetcode/tree/master/0069-sqrtx) |
@@ -49,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Vandan1207/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vandan1207/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Vandan1207/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Vandan1207/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -63,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Vandan1207/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vandan1207/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Vandan1207/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vandan1207/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
