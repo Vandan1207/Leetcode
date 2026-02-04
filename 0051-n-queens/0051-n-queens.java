@@ -1,80 +1,58 @@
 class Solution {
-    public void mapper(ArrayList<ArrayList<String>> help , List<List<String>> ans, int n){
-        List<String> ll = new ArrayList<>();
-        for(int i =0;i<n;i++){
-            String temp ="";
-            for(int j =0;j<n;j++){
-                temp+=help.get(i).get(j);
-            }
-            ll.add(temp);
-        }
-        ans.add(ll);
-    }
 
-    public boolean check(ArrayList<ArrayList<String>> list , int row , int col,int n){
-        // row check
-        int i = row;
-        while(i>=0){
-            if(list.get(i).get(col)=="Q"){
+    public boolean isSafe( List<String> board,int row,int col){
+
+        // vertical check
+        for(int i =0;i<row;i++){
+            if(board.get(i).charAt(col)=='Q'){
                 return false;
             }
-            i--;
         }
-
-        // left diagonal check
-        int j = col;
-        i=row;
-        while(i>=0 && j>= 0){
-            if(list.get(i).get(j)=="Q"){
+        // top left diagonal
+        for(int i = row -1 , j =col-1; i>=0 && j>=0;i--,j--){
+            if(board.get(i).charAt(j)=='Q'){
                 return false;
             }
-            i--;j--;
         }
 
-        // right diagonal 
-        i=row;j=col;
-        while(i>=0 && j<n){
-            if(list.get(i).get(j)=="Q"){
+        // top right diagonal
+        for(int i = row-1, j = col+1; i>=0 && j<board.size();i--,j++){
+            if(board.get(i).charAt(j)=='Q'){
                 return false;
             }
-            i--;j++;
         }
         return true;
-    }
-    
-    public void helper( ArrayList<ArrayList<String>> help , List<List<String>> ans , int row ,int col, int n ){
-        if(row==n){
-            mapper(help,ans,n);
-            return;
-        }else if(col==n){
-            return;
-        }
 
-
-        if(check(help,row,col,n)){
-         help.get(row).set(col,"Q");
-         helper(help,ans,row+1,0,n);
-         help.get(row).set(col,".");
-        }
-        helper(help,ans,row,col+1,n);
-        
-      
     }
 
+    public void nQueen(List<List<String>> ans , List<String> board, int n ,int row){
+        if(row == n){
+            // we got our answer 
+            ans.add(new ArrayList<>(board));
+            return;
+        }
+        for(int j =0;j<n;j++){
+            if(isSafe(board,row,j)){
+            String temp = board.get(row);
+            board.set(row,temp.substring(0,j) + "Q" + temp.substring(j+1));
+            nQueen(ans,board,n,row+1);
+            board.set(row,temp);
+            }
+        }
+
+    }
 
     public List<List<String>> solveNQueens(int n) {
-        ArrayList<ArrayList<String>> help = new ArrayList<>();
-        List<List<String>> ans = new ArrayList<>();
-        for(int i=0;i<n;i++){
-            ArrayList<String>temp = new ArrayList<>();
-            for(int j=0;j<n;j++){
-                temp.add(".");
+        List<String>board = new ArrayList<String>();
+        for(int i =0;i<n;i++){
+            StringBuilder sb = new StringBuilder();
+            for(int j =0;j<n;j++){
+                sb.append(".");
             }
-            help.add(temp);
+            board.add(sb.toString());
         }
-
-        helper(help,ans,0,0,n);
-
+        List<List<String>> ans = new ArrayList<>();
+        nQueen(ans,board,n,0);
         return ans;
     }
 }
