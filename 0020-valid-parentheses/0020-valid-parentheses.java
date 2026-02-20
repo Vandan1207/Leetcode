@@ -1,55 +1,32 @@
 class Solution {
     public boolean isValid(String s) {
-        /*
-        * aagar humko (,{ ,[ aave to push karvano.
-            otherwise peek before  pop , and peek ma aanu opposite na hoy to return false
-         */
-        Stack<Character> stack = new Stack<>();
-        for (int i = 0; i < s.length(); i++) {
+        Stack<Character> st = new Stack<>();
+        for(int i =0;i<s.length();i++){
             char curr = s.charAt(i);
-            switch (curr) {
-                case '{':
-                    stack.push('{');
-                    break;
-                case '[':
-                    stack.push('[');
-                    break;
-                case '(':
-                    stack.push('(');
-                    break;
-                case '}':
-                    if (stack.isEmpty()) {
-                        return false;
-                    } else if (stack.peek() != '{') {
-                        return false;
-                    } else {
-                        stack.pop();
+            if(curr == '['|| curr == '{' || curr == '('){
+                st.push(curr);            
+            }else{
+                if(st.isEmpty()){
+                    return false;
+                }else{
+                    // checks for closing one
+                    if(curr ==')'){
+                        if(!(st.peek() == '(')){
+                            return false;
+                        }
+                    }else if(curr == '}'){
+                        if(!(st.peek() == '{')){
+                            return false;
+                        }
+                    }else{
+                        if(!(st.peek() == '[')){
+                            return false;
+                        }
                     }
-                    break;
-                case ')':
-                    if (stack.isEmpty()) {
-                        return false;
-                    } else if (stack.peek() != '(') {
-                        return false;
-                    } else {
-                        stack.pop();
-                    }
-                    break;
-                case ']':
-                    if (stack.isEmpty()) {
-                        return false;
-                    } else if (stack.peek() != '[') {
-                        return false;
-                    } else {
-                        stack.pop();
-                    }
-                    break;
+                    st.pop();
+                }
             }
-
         }
-        if (!stack.isEmpty()) {
-            return false;
-        }
-        return true;
+        return st.size()==0;
     }
 }
