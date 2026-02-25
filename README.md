@@ -35,6 +35,7 @@
 | [0066-plus-one](https://github.com/Vandan1207/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vandan1207/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vandan1207/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vandan1207/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Vandan1207/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Vandan1207/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vandan1207/Leetcode/tree/master/0268-missing-number) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vandan1207/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vandan1207/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vandan1207/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Vandan1207/Leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vandan1207/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0901-online-stock-span](https://github.com/Vandan1207/Leetcode/tree/master/0901-online-stock-span) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vandan1207/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vandan1207/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/Vandan1207/Leetcode/tree/master/0901-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Vandan1207/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Recursion
