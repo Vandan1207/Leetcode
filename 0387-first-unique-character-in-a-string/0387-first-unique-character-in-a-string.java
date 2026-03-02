@@ -1,15 +1,18 @@
 class Solution {
     public int firstUniqChar(String s) {
-        int letters[] = new int[26];
+        Queue<Integer> q = new ArrayDeque<>();
+        int freq[]= new int[26];
         for(int i =0;i<s.length();i++){
-            letters[s.charAt(i)-'a']++;
-        }
-        
-        for(int i=0;i<s.length();i++){
-            if(letters[s.charAt(i)-'a'] == 1){
-                return i;
+            if(freq[s.charAt(i)-'a']==0){
+                freq[s.charAt(i)-'a']++;
+                q.add(i);
+            }else{
+                freq[s.charAt(i)-'a']++;
+                while(!q.isEmpty() && freq[(s.charAt(q.peek()))-'a']!= 1){
+                    q.remove();
+                }
             }
         }
-        return -1;
+        return q.isEmpty()? -1 : q.peek();
     }
 }
