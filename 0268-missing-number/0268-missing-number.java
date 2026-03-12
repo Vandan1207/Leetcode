@@ -5,6 +5,6 @@ class Solution {
             ans^=i^nums[i];
         }
         ans ^= nums.length;
-        return ans==0?0:ans;
+        return ans;
   }
 }
