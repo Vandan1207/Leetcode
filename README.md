@@ -262,4 +262,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Vandan1207/Leetcode/tree/master/0901-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vandan1207/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
