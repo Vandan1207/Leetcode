@@ -1,30 +1,29 @@
 class StockSpanner {
-    
-    ArrayList<Integer> stockPrices;
-    Stack<Integer> prevHigh;
-    Integer currDay;
-
+    Stack<Integer> s;
+    int currDay =0;
+    ArrayList<Integer> stockPrice;
     public StockSpanner() {
-        currDay=0;
-        stockPrices = new ArrayList<>();
-        prevHigh = new Stack<>();
+        s= new Stack<>();
+        stockPrice = new ArrayList<>();
     }
     
     public int next(int price) {
-        while(!prevHigh.isEmpty()&& stockPrices.get(prevHigh.peek())<= price){
-            prevHigh.pop();
+        while(!s.isEmpty() && price>=stockPrice.get(s.peek())){
+            s.pop();
         }
-        if(prevHigh.isEmpty()){
-            int span = currDay+1;
-            stockPrices.add(price);
-            prevHigh.push(currDay++);
-            return span;
+
+        if(s.isEmpty()){
+            stockPrice.add(price);
+            s.push(currDay);
+            return ++currDay;
         }else{
-            int span = currDay - prevHigh.peek();
-            stockPrices.add(price);
-            prevHigh.push(currDay++);
+            int span = currDay - s.peek();
+            stockPrice.add(price);
+            s.push(currDay);
+            currDay++;
             return span;
         }
+
     }
 }
 
