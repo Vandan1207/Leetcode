@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vandan1207/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vandan1207/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vandan1207/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vandan1207/Leetcode/tree/master/0035-search-insert-position) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vandan1207/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Vandan1207/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vandan1207/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Vandan1207/Leetcode/tree/master/0073-set-matrix-zeroes) |
